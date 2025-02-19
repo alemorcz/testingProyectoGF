@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="img/microfono.png" type="image/x-icon">
+    <link rel="stylesheet" href="/ProyectoFinal/assets/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap"
+        rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+        integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script defer src="/ProyectoFinal/pages/JavaScript/script.js"></script>
+    <script defer src="/ProyectoFinal/pages/JavaScript/api.js"></script>
+    <title>Fans Grupo Frontera</title>
+</head>
+<body>
+    <nav class="menu">
+        <span>
+            GP
+        </span>
+        <input type="checkbox" id="control">
+        <label for="control" onclick="addclass()">
+            <span class="fa fa-bars btn" id="hamburger"></span>
+        </label>
+        <ul>
+            <li><a href="/ProyectoFinal/index.html">Quienes Son</a></li>
+            <li><a href="#integrantes">Integrantes</a></li>
+            <li><a href="#album">Albumes</a></li>
+            <li><a href="#">Top Spotify</a></li>
+            <li><a href="pages/HTML/api.html">Buscador</a></li>
+            <li><a href="#pics">Galeria</a></li>
+            <li><a href="/ProyectoFinal/pages/HTML/contacto.html">Contáctanos</a></li>
+            <li><a href="/ProyectoFinal/pages/HTML/tienda.html">Tienda</a></li>
+        </ul>
+    </nav>
+    <div class="container-api">
+        <h1>Buscador de Letras de Canciones</h1>
+        <input type="text" id="artistInput" placeholder="Escribe el artista" />
+        <input type="text" id="titleInput" placeholder="Escribe la canción" />
+        <button id="searchButton">Buscar</button>
+        <div id="lyricsResult"></div>
+    </div>
+
+    <footer class="footer">
+        <ul class="social-icon">
+            <li class="icon-element">
+                <a href="" class="icon">
+                    <ion-icon name="logo-youtube"></ion-icon>
+                </a>
+            </li>
+            <li class="icon-element">
+                <a href="" class="icon">
+                    <ion-icon name="logo-instagram"></ion-icon>
+                </a>
+            </li>
+            <li class="icon-element">
+                <a href="" class="icon">
+                    <ion-icon name="logo-facebook"></ion-icon>
+                </a>
+            </li>
+            <li class="icon-element">
+                <a href="" class="icon">
+                    <ion-icon name="mail-open-outline"></ion-icon>
+                </a>
+            </li>
+            <li class="icon-element">
+                <a href="" class="icon">
+                    <ion-icon name="logo-whatsapp"></ion-icon>
+                </a>
+            </li>
+        </ul>
+        <ul class="menu-inicio">
+            <li class="menu-element">
+                <a href="#" class="menu-icon">
+                    Inicio
+                </a>
+            </li>
+            <li class="menu-element">
+                <a href="#" class="menu-icon">
+                    Preguntas Frecuentes
+                </a>
+            </li>
+            <li class="menu-element">
+                <a href="#" class="menu-icon">
+                    Conoce más
+                </a>
+            </li>
+            <li class="menu-element">
+                <a href="#" class="menu-icon">
+                    Fans
+                </a>
+            </li>
+            <li class="menu-element">
+                <a href="#" class="menu-icon">
+                    Unete al Club
+                </a>
+            </li>
+        </ul>
+        <p class="text">2025 | Todos los derechos reservados</p>
+    </footer>
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+</body>
+
+</html>

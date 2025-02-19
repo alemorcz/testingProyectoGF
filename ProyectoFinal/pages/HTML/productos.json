@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Termo Grupo Frontera",
+    "code": "P001",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, illum repellat minus odit odio laborum?",
+    "price": 450.0,
+    "discount": 10,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_799563-MLM74830921925_022024-O.webp"
+  },
+  {
+    "name": "Playera Corazón",
+    "code": "P002",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, illum repellat minus odit odio laborum?",
+    "price": 220.0,
+    "discount": 20,
+    "image": "https://http2.mlstatic.com/D_NQ_NP_687842-CBT75455485538_042024-O.webp"
+  },
+  {
+    "name": "Sudadera Corazón",
+    "code": "P003",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, illum repellat minus odit odio laborum?",
+    "price": 750.0,
+    "discount": 20,
+    "image": "https://m.media-amazon.com/images/I/51tED-J6lPL._AC_UY1000_.jpg"
+  },
+  {
+    "name": "Playera BadBunny ft GP",
+    "code": "P004",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, illum repellat minus odit odio laborum?",
+    "price": 420.0,
+    "discount": 20,
+    "image": "https://img.9teeshirt.com/images/desgin/211/trending/39l2v3/13-bad-bunny-t-shirt-grupo-frontera-t-shirt-grupo-frontera-merch-unx100to-el-compa-bad-bunny-unisex-0.jpg"
+  },
+  {
+    "name": "Gorra Corazón",
+    "code": "P005",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, illum repellat minus odit odio laborum?",
+    "price": 180.0,
+    "discount": 20,
+    "image": "https://bullseyemerch.com/grupofrontera/wp-content/uploads/2023/05/3-300x375.png"
+  },
+  {
+    "name": "Playera Blanca",
+    "code": "P006",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, illum repellat minus odit odio laborum?",
+    "price": 300.0,
+    "discount": 20,
+    "image": "https://nostalgia-lab.com/cdn/shop/files/GRUPO-FRONTERA_WHITE_1.png?v=1682713387&width=1445"
+  },
+  {
+    "name": "Sudadera Corazón",
+    "code": "P007",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, illum repellat minus odit odio laborum?",
+    "price": 220.0,
+    "discount": 20,
+    "image": "https://m.media-amazon.com/images/I/51tED-J6lPL._AC_UY1000_.jpg"
+  },
+  {
+    "name": "Sudadera Corazón",
+    "code": "P008",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, illum repellat minus odit odio laborum?",
+    "price": 220.0,
+    "discount": 20,
+    "image": "https://m.media-amazon.com/images/I/51tED-J6lPL._AC_UY1000_.jpg"
+  },
+  {
+    "name": "Sudadera Corazón",
+    "code": "P009",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, illum repellat minus odit odio laborum?",
+    "price": 220.0,
+    "discount": 20,
+    "image": "https://m.media-amazon.com/images/I/51tED-J6lPL._AC_UY1000_.jpg"
+  },
+  {
+    "name": "Sudadera Corazón",
+    "code": "P010",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nam, illum repellat minus odit odio laborum?",
+    "price": 220.0,
+    "discount": 20,
+    "image": "https://m.media-amazon.com/images/I/51tED-J6lPL._AC_UY1000_.jpg"
+  }
+]
