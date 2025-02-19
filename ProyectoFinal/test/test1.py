@@ -18,7 +18,7 @@ try:
     print("✅ Test PASADO: El título es correcto.")
 
 except Exception as e:
-    print(f"❌ Test FALLADO: {e}")
+    print("❌ Test FALLADO: {e}")
 
 finally:
     driver.quit()
